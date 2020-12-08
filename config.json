@@ -1,0 +1,23 @@
+{
+    "phantomjs_path": "phantomjs-2.1.1-windows\\bin\\phantomjs",
+    "target_url_s": "https://news.sina.com.cn/",
+    "target_url": "http://news.sina.com.cn/",
+    "url_save_path": "tmp/urls/",
+    "news_save_path": "tmp/news/",
+    "supported_news_features": [
+        ".shtml"
+    ],
+    "illegal_symbols": [
+        "/",
+        "\"",
+        "\\",
+        ":",
+        "*",
+        "<",
+        ">",
+        "|",
+        "?",
+        "\t",
+        "\n"
+    ]
+}
